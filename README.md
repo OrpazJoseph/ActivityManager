@@ -24,8 +24,3 @@ To run this project, you have to:
 ```
 * Place the DB file in the right folder
 * Make sure the activites reports are craeted in a valid path
-
-
-
-```
-
